@@ -20,8 +20,8 @@
 ## 🧩 Overview
 
 <small>
-The **Store Connect Automation Suite** streamlines Automation testing for the Store Connect application, supporting **mobile (Android)** interface.  
-It is engineered for **modular, data-driven, and reusable** test design, enabling rapid regression testing and continuous integration.
+The <strong>Store Connect Automation Suite</strong>streamlines Automation testing for the Store Connect application, supporting <strong>mobile (Android)</strong> interface.  
+It is engineered for <strong>modular, data-driven, and reusable</strong> test design, enabling rapid regression testing and continuous integration.
 </small>
 
 ---
