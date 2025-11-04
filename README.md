@@ -96,8 +96,11 @@ Execute the main checkout flow using Pytest, generating Allure report, HTML repo
 # Change Directory if you are not in STORECONNECTAPP
 cd STORECONNECTAPP
 
-# Run Tests 
+# Run Tests [EACH INDIVIDUAL TEST]
 pytest test_cases/test_case_name.py
+
+# Run all tests parallel [ALL TESTS AT ONCE]
+pytest -v test_cases/
 ```
 ## 📊 Test Reporting 
 After execution, serve the generated report files to view the interactive dashboard. 
